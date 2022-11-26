@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="s2hw">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/s2hw.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
